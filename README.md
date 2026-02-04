@@ -1,5 +1,5 @@
-# Ai-study-planner
-🧠 AI Study Planner
+#🧠 Ai-based-Study-Plan-Generator-Tracker
+
 
 An AI-powered study planning and progress tracking application that helps learners convert goals into structured daily tasks and monitor their progress.
 This project focuses on planning + execution, not testing knowledge.
